@@ -1,0 +1,82 @@
+*{
+    margin: 0; padding: 0;
+}
+
+@import url("https://fonts.googleapis.com/css?family=ZCOOL+XiaoWei&display=swap");
+
+
+header  {
+    background: green;
+    height: 20vh;
+	font-family: 'Indie Flower', cursive;
+	font-size: 600%;
+	text-align: center;
+  }
+
+body {color: black;
+background-color: #a7e7d1;
+font-family: 'Sulphur Point', sans-serif;}
+
+h1 {color: black;
+font-family: 'ZCOOL XiaoWei', serif;}
+
+nav {background-color: orange;
+text-align: inline;
+size: 50%;}
+
+.container{max-width: 720px;
+    margin: 0 auto;
+}
+
+.col-6 {float: right;
+width: 50%;
+padding: 0; 25px;
+text-align: block;
+}
+
+col-4 {float: right;
+width: 33.33%;
+padding: 0; auto;
+text-align: inline;} 
+
+#photo {size: 10px;}
+
+footer, article, {
+    padding: 1em;
+  }
+  
+footer {
+  background: green;
+  height: 2vh;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;}
+  
+  
+.button:hover {background-color: black;
+color: gold;}
+  
+.button {background-color: gold;
+width: 130px;
+height: 60px;
+color: black;
+  font-size: 20px;
+  padding: 10px 20px;
+  border: 1px;
+  cursor: pointer;
+  display: inline;
+  }
+
+
+
+  
+
+  
+
+  
+  
+ 
+
+
